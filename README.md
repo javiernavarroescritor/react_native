@@ -270,7 +270,7 @@ src/
 
 ### 🇪🇸 Para Lectores del Libro en Español
 
-1. Lee el contenido en la carpeta `manuscrito/` (capítulos 01-12)
+1. Lee el contenido del libro
 2. Consulta el código completo en `src_es/`
 3. Ejecuta la aplicación:
    ```bash
@@ -283,7 +283,7 @@ src/
 
 ### 🇬🇧 For English Book Readers
 
-1. Read the content in the `manuscript/` folder (chapters 01-12) *(coming soon)*
+1. Read the content of the book
 2. Check the complete code in `src_en/`
 3. Run the application:
    ```bash
@@ -370,4 +370,5 @@ Copyright © 2026 Javier Navarro Cerda
 ---
 
 **⭐ Si este libro te resulta útil, considera darle una estrella / If you find this book useful, consider giving it a star!**
+
 
